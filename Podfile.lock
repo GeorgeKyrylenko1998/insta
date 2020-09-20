@@ -1,0 +1,26 @@
+PODS:
+  - Kingfisher (5.13.2):
+    - Kingfisher/Core (= 5.13.2)
+  - Kingfisher/Core (5.13.2)
+  - PromisesObjC (1.2.8)
+  - PromisesSwift (1.2.8):
+    - PromisesObjC (= 1.2.8)
+
+DEPENDENCIES:
+  - Kingfisher
+  - PromisesSwift
+
+SPEC REPOS:
+  trunk:
+    - Kingfisher
+    - PromisesObjC
+    - PromisesSwift
+
+SPEC CHECKSUMS:
+  Kingfisher: d342c8354c10c3d85a27d6d4c42c41285924b898
+  PromisesObjC: c119f3cd559f50b7ae681fa59dc1acd19173b7e6
+  PromisesSwift: 37bad6f4daddb02f7c9c531efe91e8b21c13ee2f
+
+PODFILE CHECKSUM: 625a1ba3c438e32666eaf6a77fc357a0f59e83de
+
+COCOAPODS: 1.9.1
